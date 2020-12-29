@@ -21,47 +21,47 @@ from pyspark.sql.types import StringType, StructType, StructField, TimestampType
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/ODIN_UTILS
+# MAGIC ../../odin_utilities/utilities/ODIN_UTILS
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/APPEND_TO_METRICS
+# MAGIC ../../odin_utilities/utilities/APPEND_TO_METRICS
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SALESFORCE_CONNECTION
+# MAGIC ../../odin_utilities/utilities/SALESFORCE_CONNECTION
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SALESFORCE_CASE_v3
+# MAGIC ../../odin_utilities/utilities/SALESFORCE_CASE_v3
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SALESFORCE_POST_EXCEPTION_METRICS
+# MAGIC ../../odin_utilities/utilities/SALESFORCE_POST_EXCEPTION_METRICS
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/POST_PROCESSOR
+# MAGIC ../../odin_utilities/utilities/POST_PROCESSOR
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SMARTSHEET_ADAPTER
+# MAGIC ../../odin_utilities/utilities/SMARTSHEET_ADAPTER
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SNOWFLAKE
+# MAGIC ../../odin_utilities/utilities/SNOWFLAKE
 
 # COMMAND ----------
 
 # MAGIC %run
-# MAGIC ../../odin_utilities/notebooks/utilities/SCHEMA_FUNCTIONS
+# MAGIC ../../odin_utilities/utilities/SCHEMA_FUNCTIONS
 
 # COMMAND ----------
 
